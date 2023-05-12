@@ -13,8 +13,8 @@ require(dlnm)
 setwd("~/Desktop/projects/casey cohort/temperature insurance status emm/analyses/private-public-uninsured/pred")
 
 
-pub.pred.6hr <- read.csv("pred_pub_data_12.csv")
-priv.pred.6hr <- read.csv("pred_priv_data_12.csv")
+pub.pred.6hr <- read.csv("pred_pub_data_6.csv")
+priv.pred.6hr <- read.csv("pred_priv_data_6.csv")
 
 #get the log format
 
